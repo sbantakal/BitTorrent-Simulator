@@ -1,0 +1,196 @@
+Log and Directory are created
+Starting Peer 1002
+Common config file loaded
+[2020/12/12 00:52:22]: Peer 1002 has downloaded the complete file
+[2020/12/12 00:52:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:52:22]: Peer 1002 makes a connection to Peer 1001.
+Sending not interested - no bitfield req
+[2020/12/12 00:52:22]: Peer 1002 received the 'interested' message from 1001
+[2020/12/12 00:52:27]: Peer 1002 has the preferred neighbors 1001
+Peer 1001 requested for piece 32
+Peer 1001 requested for piece 23
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 32
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 7
+Peer 1001 requested for piece 31
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 18
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 23
+Peer 1001 requested for piece 66
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 31
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 20
+Peer 1001 requested for piece 10
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 66
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 42
+Peer 1001 requested for piece 56
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 10
+[2020/12/12 00:52:28]: Peer 1002 received the ‘have’ message from 1001 for the piece 14
+Peer 1001 requested for piece 13
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 4
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 56
+Peer 1001 requested for piece 34
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 12
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 13
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 40
+Peer 1001 requested for piece 8
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 34
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 19
+Peer 1001 requested for piece 63
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 8
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 64
+Peer 1001 requested for piece 38
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 63
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 46
+Peer 1001 requested for piece 60
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 38
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 9
+Peer 1001 requested for piece 52
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 60
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 2
+Peer 1001 requested for piece 5
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 52
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 26
+Peer 1001 requested for piece 62
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 5
+[2020/12/12 00:52:29]: Peer 1002 received the ‘have’ message from 1001 for the piece 58
+Peer 1001 requested for piece 37
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 35
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 62
+Peer 1001 requested for piece 57
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 27
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 37
+Peer 1001 requested for piece 50
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 21
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 57
+Peer 1001 requested for piece 30
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 59
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 50
+Peer 1001 requested for piece 67
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 55
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 30
+Peer 1001 requested for piece 33
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 16
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 67
+Peer 1001 requested for piece 15
+[2020/12/12 00:52:30]: Peer 1002 received the ‘have’ message from 1001 for the piece 33
+Peer 1001 requested for piece 24
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 25
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 15
+Peer 1001 requested for piece 41
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 51
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 24
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 28
+Peer 1001 requested for piece 54
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 41
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 29
+Peer 1001 requested for piece 36
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 54
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 48
+Peer 1001 requested for piece 1
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 36
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 3
+Peer 1001 requested for piece 47
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 1
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 11
+Peer 1001 requested for piece 49
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 47
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 39
+[2020/12/12 00:52:31]: Peer 1002 is unchoked by 1001
+Peer 1001 requested for piece 22
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 49
+[2020/12/12 00:52:31]: Peer 1002 received the ‘have’ message from 1001 for the piece 6
+Peer 1001 requested for piece 17
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 22
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 43
+Peer 1001 requested for piece 44
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 17
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 44
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 45
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 53
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 61
+[2020/12/12 00:52:32]: Peer 1002 has the preferred neighbors 1001
+[2020/12/12 00:52:32]: Peer 1002 received the ‘have’ message from 1001 for the piece 65
+Connection completed for 1001
+[2020/12/12 00:52:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:52:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:52:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:52:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:52:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:53:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:54:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:55:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:56:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:57:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:37]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:42]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:47]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:52]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:58:57]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:02]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:07]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:12]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:17]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:22]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:27]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:32]: Peer 1002 has the preferred neighbor
+[2020/12/12 00:59:37]: Peer 1002 has the preferred neighbor
